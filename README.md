@@ -1,5 +1,5 @@
 # About urlprobe
-Urlprobe takes URLs from standard input and echos them back if the HTTP result code matches the one supplied the urlprobe.
+Urlprobe takes URLs from standard input and echos them back if the HTTP result code matches the one supplied to urlprobe.
 
 # Why use urlprobe?
 [tomnomnom](https://twitter.com/tomnomnom) created [httpprobe](https://github.com/tomnomnom/httprobe) for probing if a host uses HTTP(S), filtering out hosts without a website. Urlprobe has a slightly different function, it filters out websites with an unwanted HTTP status code.
